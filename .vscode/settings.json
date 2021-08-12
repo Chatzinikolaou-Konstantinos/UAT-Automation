@@ -4,8 +4,7 @@
     "java.project.referencedLibraries": {
         "include": [
             "lib/**/*.jar",
-            "c:\\Users\\chkon\\selenium-java-3.141.59\\client-combined-3.141.59-sources.jar",
-            "c:\\Users\\chkon\\selenium-java-3.141.59\\selenium-server-standalone-3.141.59.jar"
+            "c:\\Users\\chkon\\selenium-java-3.141.59\\client-combined-3.141.59-sources.jar"
         ],
         "exclude": [
             "c:\\Users\\chkon\\selenium-java-3.141.59\\byte-buddy-1.8.15.jar",
